@@ -1,0 +1,30 @@
+{
+  "name": "@light-200/chatbox",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a chat box to simplify making chat apps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/light-200/chatbox#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/light-200/chatbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/light-200/chatbox/issues",
+    "email": "lightatgithub@gmail.com"
+  },
+  "keywords": [
+    "chatbox",
+    "chatbot",
+    "messenger",
+    "chat popup",
+    "chat webcomponent",
+    "web component vanillajs",
+    "vanillajs"
+  ],
+  "author": "light-200",
+  "license": "MIT"
+}
